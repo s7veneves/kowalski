@@ -1,0 +1,5 @@
+https://github.com/s7veneves/kowalski/raw/refs/heads/master/audio/two.mp3
+https://github.com/s7veneves/kowalski/raw/refs/heads/master/audio/three.mp3
+https://github.com/s7veneves/kowalski/raw/refs/heads/master/audio/four.mp3
+https://github.com/s7veneves/kowalski/raw/refs/heads/master/audio/six.mp3
+https://github.com/s7veneves/kowalski/raw/refs/heads/master/audio/seven.mp3
